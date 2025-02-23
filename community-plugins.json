@@ -15510,5 +15510,12 @@
     "author": "Kodai Nakamura",
     "description": "automatically converts plain text file references into wiki links",
     "repo": "kdnk/obsidian-automatic-linker"
+  },
+  {
+    "id": "imswitch-mathblock",
+    "name": "IMSwitch in Math Block",
+    "author": "XXM",
+    "description": "Automatically switch input method in math block",
+    "repo": "cailurus/imswitch_mathblock_obsidian"
   }
 ]
