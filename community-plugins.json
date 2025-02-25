@@ -15576,6 +15576,20 @@
     "repo": "Nick-de-Bruin/obsidian-extended-file-support"
   },
   {
+    "id": "pdf-writer",
+    "name": "PDF Writer",
+    "author": "Jobelin Kom",
+    "description": "to write and fill a PDF.",
+    "repo": "jkom4/obsidian-pdf-writer"
+  },
+  {
+    "id": "pdf-paste",
+    "name": "PDF Paste",
+    "author": "Cormac",
+    "description": "Improve copy-paste from PDFs by cleaning newlines and hyphens.",
+    "repo": "Cormac-C/obsidian-paste-plugin"
+  },
+  {
     "id": "imswitch-mathblock",
     "name": "IMSwitch in Math Block",
     "author": "XXM",
